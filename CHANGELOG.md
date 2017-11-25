@@ -1,3 +1,8 @@
+# 0.1.4
+
+- Improved docs
+- Adding badges to Github README.md
+
 # 0.1.3
 
 - Initial production-ready release
