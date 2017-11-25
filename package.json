@@ -1,0 +1,33 @@
+{
+  "name": "mern-scripts",
+  "version": "0.1.2",
+  "description": "This package includes scripts and configuration used by MERN App Generator.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahzaibkhalid/mern-scripts.git"
+  },
+  "bin": {
+    "mern-scripts": "./index.js"
+  },
+  "author": "Shahzaib Khalid <shahzaibkhalidmalik@outlook.com> (http://shahzaibkhalid.com)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "fs-extra": "^4.0.2",
+    "replace": "^0.3.0",
+    "chalk": "^2.3.0"
+  },
+  "keywords": [
+    "MERN App Generator",
+    "MERN",
+    "React",
+    "MongoDB",
+    "ExpressJS",
+    "NodeJS"
+  ],
+  "bugs": {
+    "url": "https://github.com/shahzaibkhalid/mern-scripts/issues"
+  },
+  "homepage": "https://github.com/shahzaibkhalid/mern-scripts/blob/master/README.md"
+}
