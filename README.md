@@ -1,7 +1,7 @@
 # mern-scripts
 
 [![Build Status](https://travis-ci.org/shahzaibkhalid/mern-scripts.svg?branch=master)](https://travis-ci.org/shahzaibkhalid/mern-scripts)
-[![npm version](https://badge.fury.io/js/mern-scripts.svg)](https://www.npmjs.com/package/mern-scriptss)
+[![npm version](https://badge.fury.io/js/mern-scripts.svg)](https://www.npmjs.com/package/mern-scripts)
 [![GitHub issues](https://img.shields.io/github/issues/shahzaibkhalid/mern-scripts.svg)](https://github.com/shahzaibkhalid/mern-scripts/issues)
 [![npm](https://img.shields.io/npm/dm/mern-scripts.svg)](https://www.npmjs.com/package/mern-scripts)
 [![npm](https://img.shields.io/npm/dt/mern-scripts.svg)](https://www.npmjs.com/package/mern-scripts)
