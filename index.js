@@ -46,7 +46,7 @@ if(commandName === 'deploy') {
       }
       let data = fs.readFileSync(file, 'utf-8');
   
-      data = data.replace(`"client-dev": "webpack-dev-server --port 4000 --hot --inline"`, `"start": "node ./app/server/public/server.js"`);
+      data = data.replace(`"client-dev": "webpack-dev-server --port 4000 --hot --inline --watch --progress"`, `"start": "node ./app/server/public/server.js"`);
       data = data.replace(`"server-dev": "opn http://localhost:8000 && nodemon ./app/server/public/server.js localhost 8000"`, `"heroku-postbuild": "npm install --only=dev && npm install && npm run build"`);
       data = data.replace(`"build": "webpack -p",`, `"build": "webpack -p"`)
       data = data.replace(`"deploy": "mern-scripts deploy"`, ``);

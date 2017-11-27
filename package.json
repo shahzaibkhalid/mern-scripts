@@ -1,6 +1,6 @@
 {
   "name": "mern-scripts",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "This package includes scripts and configuration used by MERN App Generator.",
   "main": "index.js",
   "repository": {
