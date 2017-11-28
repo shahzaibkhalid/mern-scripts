@@ -1,17 +1,10 @@
-# 0.1.5
+# 0.1.7
 
-- Update typo in README.md
+- Update in docs
+- Some minor bug fixes
 
-# 0.1.4
-
-- Improved docs
-- Adding badges to Github README.md
-
-# 0.1.3
+# <0.1.6
 
 - Initial production-ready release
-
-# <0.1.3
-
-- All the versions before 0.1.3 are not advised to be used for production.
-- Versions before 0.1.3 were in beta for testing and now deprecated.
+- All the versions before 0.1.6 are not advised to be used for production.
+- Versions before 0.1.3 were in beta for testing and are deprecated now.
