@@ -1,4 +1,4 @@
-Current Status: No longer maintained.
+**Current Status: No longer maintained.** ❌
 
 # mern-scripts
 
