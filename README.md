@@ -1,3 +1,5 @@
+Current Status: No longer maintained.
+
 # mern-scripts
 
 [![Build Status](https://travis-ci.org/shahzaibkhalid/mern-scripts.svg?branch=master)](https://travis-ci.org/shahzaibkhalid/mern-scripts)
